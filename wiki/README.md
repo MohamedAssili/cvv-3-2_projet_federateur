@@ -13,7 +13,8 @@ Nous avons convenu que le projet sera divisé sur 3 équipe:
     - Chourouk
 - superset: se charge du définition et déploiement des ressources superset sur k8s et bien evidement leur maintient (code, doc, ...).
   - membres:
-    - chourouk
+    - Mohamed Assili
+    - Houssemeddine Henchir
 - jupyterhub: se charge du définition et déploiement des ressources jupyterhub sur k8s et bien evidement leur maintient (code, doc, ...).
   - membres
     - Chayma lamouchi
